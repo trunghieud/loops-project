@@ -1,6 +1,6 @@
-# Basic Project
+# Loops-Project
 
-*Structure for creating a Basic project.*
+*Structure for creating a basic loop project.*
 
 **Java 7**
 
